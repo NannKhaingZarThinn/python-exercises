@@ -15,3 +15,5 @@ print (f"His teeth are usually {my_teeth} depending on the co")
 
 # this line is trickly, try to get it exactly right
 total = my_age + my_height + my_weight
+
+print (f"If I add {my_age}, {my_height}, and {my_weight} I ge")
